@@ -1,6 +1,7 @@
 # Links para desenvolvedores web
 Coleção de links úteis e ferramentas para projetos de desenvolvimento web.
-Sinta-se livre para compartilhar, copiar, sugerir novos links
+Sinta-se livre para compartilhar, copiar, sugerir novos links ou reportar links fora do ar.
+Obrigado!
 
 
 ### HTML/CSS
