@@ -1,5 +1,5 @@
 # Links para desenvolvedores web
-Coleção de links úteis e ferramentas para desenvolvimento web.
+Coleção de links úteis e ferramentas para projetos de desenvolvimento web.
 Sinta-se livre para compartilhar, copiar, sugerir novos links
 
 
