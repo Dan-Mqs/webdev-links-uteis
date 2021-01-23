@@ -8,7 +8,7 @@ Obrigado!
   - [Informações atualizadas sobre suporte de browsers a tecnologias e ferramentas front-end - Can I Use](https://caniuse.com/)
 
 ### Ilustrações/imagens para seu projeto
-  - [Scale by Flexiple](https://2.flexiple.com/scale/all-illustrations)
+  - [Ilustrações - Scale by Flexiple](https://2.flexiple.com/scale/all-illustrations)
   - 
   
   
