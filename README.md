@@ -24,6 +24,6 @@ Obrigado!
   - [Patterns para background CSS - MagicPattern](https://www.magicpattern.design/tools/css-backgrounds/)
   - [Jogo para aprender e praticar CSS Flexbox - Flexbox Froggy](https://flexboxfroggy.com/)
   - [Jogo para aprender e praticar CSS Grid - Grid Garden](https://codepip.com/games/grid-garden/)
-  
+  - [Biblioteca simples para animações CSS por scrolling - Animate On Scroll](https://michalsnik.github.io/aos/)
 ### Javascript
   - [Cheatsheet de Funções Array em Javascript](https://i.redd.it/s8ev4pw1p4a61.jpg)
