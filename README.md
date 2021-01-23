@@ -7,6 +7,7 @@ Obrigado!
 ### Gerais
   - [Informações atualizadas sobre suporte de browsers a tecnologias e ferramentas front-end - Can I Use](https://caniuse.com/)
   - [Repositório com lista coletiva de APIs públicas](https://github.com/public-apis/public-apis)
+  - [Iniciativa para ensinar desenvolvimento web full stack de graça - The Odin Project](https://theodinproject.com/)
   
 ### Ilustrações/imagens para seu projeto
   - [Ilustrações - Scale by Flexiple](https://2.flexiple.com/scale/all-illustrations)
