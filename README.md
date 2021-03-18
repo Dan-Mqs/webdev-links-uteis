@@ -2,7 +2,7 @@
 Coleção de links úteis e ferramentas para projetos de desenvolvimento web.
 Mais informações nos respectivos links de cada recurso.
 Sinta-se livre para compartilhar, copiar, sugerir novos links ou reportar links fora do ar.
-Obrigado!
+Have fun!
 
 ### Gerais
   - [Informações atualizadas sobre suporte de browsers a tecnologias e ferramentas front-end - Can I Use](https://caniuse.com/)
